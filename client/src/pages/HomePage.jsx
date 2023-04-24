@@ -21,7 +21,7 @@ function HomePage() {
   useEffect(() => {
     if(selectedIndex != 0)
       axios
-        .get(`http://localhost:3000/api/users${endpoints[selectedIndex]}`)
+        .get(`https://mobilicis-inc-assignment.onrender.com/api/users${endpoints[selectedIndex]}`)
         .then((data) => {
           setUserData(data.data);
         })
