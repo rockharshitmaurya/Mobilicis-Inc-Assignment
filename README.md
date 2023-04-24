@@ -5,6 +5,8 @@
 - Backend Server URL : [https://mobilicis-inc-assignment.onrender.com/](https://mobilicis-inc-assignment.onrender.com)
 - Frontend URL : [https://mobilicis-inc-assignment.netlify.app/](https://mobilicis-inc-assignment.netlify.app)
 
+>Please note that the API is hosted on a free server, which means that it may take some time to handle the first request as the server might be in a sleep mode. Therefore, there could be some delay in response time. However, once the server is up, it should work fine. Thank you for your understanding
+
 ### Project Documentation: README file for Source Code, APIs, Hostname, and URLs :
 
 ### Overview 
