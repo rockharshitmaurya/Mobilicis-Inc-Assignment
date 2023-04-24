@@ -1,0 +1,12 @@
+.table-container {
+    max-width: 100%;
+    overflow: auto;
+}
+
+.search-box-container{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 30px;
+}
